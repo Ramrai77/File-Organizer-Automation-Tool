@@ -1,4 +1,4 @@
-SOURCE_FOLDER = r"C:\Users\User\Downloads"
+SOURCE_FOLDER = r"folder_Path"
 
 FILE_TYPES = {
     "Images": [".jpg", ".jpeg", ".png"],
